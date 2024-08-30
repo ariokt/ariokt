@@ -1,5 +1,5 @@
 # 💫 About Me:
-It's me Ario Waskita. Memiliki komitmen untuk terus mengembangkan skill di bidang Web Development. Memiliki pengalaman dalam mengimplementasikan Javascript, Reactjs, CSS3, SCSS, Tailwind, Bootstrap, Ant Design, Material UI, Laravel, Git, Gitlab, Figma.
+It's me Ario Waskita. Memiliki komitmen untuk terus mengembangkan skill di bidang Web Development. Memiliki pengalaman dalam mengimplementasikan Javascript, Nextjs, Reactjs, CSS3, SCSS, Tailwind, Bootstrap, Ant Design, Material UI, Laravel, Git, Gitlab, Figma.
 
 
 ## 🌐 Socials:
